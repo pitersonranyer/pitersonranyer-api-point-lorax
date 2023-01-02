@@ -9,7 +9,7 @@ const cadastro = (req, res, next) => {
             }
             
             return res.status(200).end();
-        })
+        })  
         .catch(error => next(error));
 };
 
