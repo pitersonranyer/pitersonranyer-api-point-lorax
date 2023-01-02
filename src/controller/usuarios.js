@@ -2,7 +2,6 @@ const { cadastrarUsuario } = require('../repository/usuarios');
 
 const cadastro = (req, res, next) => {
     const dadosUsuario = req.body;
-
     return cadastrarUsuario(dadosUsuario)
         .then(usuario => {
             if (!usuario) {

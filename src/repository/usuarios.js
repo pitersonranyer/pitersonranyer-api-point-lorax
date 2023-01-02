@@ -1,20 +1,21 @@
 const Usuario = require('../model/usuario');    
-const { gerarCredenciais } = require('../service/auth');
 
 const cadastrarUsuario = dadosUsuario => {
     return Usuario.findOne({ where: { email: dadosUsuario.email } }).then(data => {
-
         if (data === null ) {
-            const credenciais = gerarCredenciais(dadosUsuario.senha);   
-            const usuario = new Usuario({ ...dadosUsuario, ...credenciais });
+            
+            const usuario = new Usuario({ ...dadosUsuario });
             
             usuario.save();
             return true;
             
         } else {
-            return false;
+          Usuario.update({
+            nome: dadosUsuario.nome           
+          },
+            { where: { email: dadosUsuario.email } });
         }
-
+        return true;
         
     });
 };

@@ -22,18 +22,20 @@ const Usuario = sequelize.define("usuario", {
       len: [2, 100]
     }
   },
-  hash: {
-    allowNull: false,
-    type: Sequelize.TEXT,
-    is: /^[0-9a-f]{64}$/i
+
+  /* dados login fire base */
+
+  uid: {
+    allowNull: true,
+    type: Sequelize.STRING(100),
   },
-  salt: {
-    allowNull: false,
-    type: Sequelize.STRING(255),
-    validate: {
-      len: [2, 255]
-    }
-  }
-});
+
+
+},
+  {
+    freezeTableName: true,
+    timestamps: false
+
+  });
 
 module.exports = Usuario;
