@@ -2,13 +2,13 @@ const axios = require('axios');
 const querystring = require('querystring');
 
 class FootballData {
-    constructor(token) {
+    /* constructor(token) {
         this.instance = axios.create({
             baseURL: 'http://api.football-data.org/v4/',
            //  timeout: 1000,
             headers: { 'X-Auth-Token': token }
         });
-    }
+    } */
 
 
     /* Todas as competições do plano */
