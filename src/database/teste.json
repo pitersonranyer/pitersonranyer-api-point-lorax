@@ -1,0 +1,16 @@
+[
+	{ "id": 1,
+	  "naming": "Captain America",
+		
+		"teams": [
+			{
+				"id": 57,
+				"name": "Arsenal FC"
+			},
+			{
+				"id": 58,
+				"name": "Liverpool FC"
+			}
+		]
+	}
+]

@@ -57,8 +57,24 @@ const partidasPorCompeticaoId = (req, res, next) => {
 
   id_competicao = req.params.id_competicao;
   
-  return footballData.competitionMatches(id_competicao)
+ /*  return footballData.competitionMatches(id_competicao)
  .then(partidas => res.json(partidas))
+ .catch(err => next(err));  */
+
+ return mockFootballData.competitionMatches()
+ .then(partidas => res.json(partidas))
+ .catch(err => next(err)); 
+
+};
+
+
+const listPartidasCompeticaoQuery = async  (req, res, next) => {
+
+  const dtInicio = req.params.dtInicio;
+  const dtFim = req.params.dtFim;
+    
+  return mockFootballData.getPartidasCompeticaoQuery(dtInicio, dtFim)
+ .then(competicao => res.json(competicao))
  .catch(err => next(err)); 
 
 };
@@ -67,5 +83,6 @@ module.exports = { competicoes,
   competicaoPorId, 
   timesPorCompeticaoId, 
   classificaoPorCompeticaoId,
-  partidasPorCompeticaoId
+  partidasPorCompeticaoId,
+  listPartidasCompeticaoQuery
 };

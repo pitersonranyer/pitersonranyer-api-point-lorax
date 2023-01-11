@@ -1,0 +1,3029 @@
+{
+	"filters": {
+		"season": "2024"
+	},
+	"resultSet": {
+		"count": 51,
+		"first": "2024-06-14",
+		"last": "2024-07-14",
+		"played": 0
+	},
+	"competition": {
+		"id": 2018,
+		"name": "European Championship",
+		"code": "EC",
+		"type": "CUP",
+		"emblem": "https://crests.football-data.org/EUR.svg"
+	},
+	"matches": [
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428747,
+			"utcDate": "2024-06-14T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_A",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428746,
+			"utcDate": "2024-06-15T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_A",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428752,
+			"utcDate": "2024-06-15T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_B",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428753,
+			"utcDate": "2024-06-15T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_B",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428758,
+			"utcDate": "2024-06-16T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_C",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428759,
+			"utcDate": "2024-06-16T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_C",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428765,
+			"utcDate": "2024-06-16T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_D",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428764,
+			"utcDate": "2024-06-17T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_D",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428770,
+			"utcDate": "2024-06-17T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_E",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428771,
+			"utcDate": "2024-06-17T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_E",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428776,
+			"utcDate": "2024-06-18T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_F",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428777,
+			"utcDate": "2024-06-18T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 1,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_F",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428744,
+			"utcDate": "2024-06-19T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_A",
+			"lastUpdated": "2022-11-08T07:38:31Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428745,
+			"utcDate": "2024-06-19T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_A",
+			"lastUpdated": "2022-11-08T07:38:31Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428751,
+			"utcDate": "2024-06-19T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_B",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428750,
+			"utcDate": "2024-06-20T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_B",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428756,
+			"utcDate": "2024-06-20T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_C",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428757,
+			"utcDate": "2024-06-20T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_C",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428762,
+			"utcDate": "2024-06-21T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_D",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428763,
+			"utcDate": "2024-06-21T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_D",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428769,
+			"utcDate": "2024-06-21T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_E",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428768,
+			"utcDate": "2024-06-22T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_E",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428774,
+			"utcDate": "2024-06-22T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_F",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428775,
+			"utcDate": "2024-06-22T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 2,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_F",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428742,
+			"utcDate": "2024-06-23T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_A",
+			"lastUpdated": "2022-11-08T07:38:31Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428743,
+			"utcDate": "2024-06-23T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_A",
+			"lastUpdated": "2022-11-08T07:38:31Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428748,
+			"utcDate": "2024-06-24T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_B",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428749,
+			"utcDate": "2024-06-24T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_B",
+			"lastUpdated": "2022-11-08T07:38:32Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428754,
+			"utcDate": "2024-06-25T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_C",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428755,
+			"utcDate": "2024-06-25T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_C",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428760,
+			"utcDate": "2024-06-25T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_D",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428761,
+			"utcDate": "2024-06-25T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_D",
+			"lastUpdated": "2022-11-08T07:38:33Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428766,
+			"utcDate": "2024-06-26T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_E",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428767,
+			"utcDate": "2024-06-26T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_E",
+			"lastUpdated": "2022-11-08T07:38:34Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428772,
+			"utcDate": "2024-06-26T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_F",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428773,
+			"utcDate": "2024-06-26T19:00:00Z",
+			"status": "TIMED",
+			"matchday": 3,
+			"stage": "GROUP_STAGE",
+			"group": "GROUP_F",
+			"lastUpdated": "2022-11-08T07:38:35Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428791,
+			"utcDate": "2024-06-29T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:37Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428792,
+			"utcDate": "2024-06-29T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:37Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428789,
+			"utcDate": "2024-06-30T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:37Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428790,
+			"utcDate": "2024-06-30T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:37Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428787,
+			"utcDate": "2024-07-01T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:37Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428788,
+			"utcDate": "2024-07-01T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:37Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428785,
+			"utcDate": "2024-07-02T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428786,
+			"utcDate": "2024-07-02T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "LAST_16",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:37Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428783,
+			"utcDate": "2024-07-05T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "QUARTER_FINALS",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428784,
+			"utcDate": "2024-07-05T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "QUARTER_FINALS",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428781,
+			"utcDate": "2024-07-06T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "QUARTER_FINALS",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428782,
+			"utcDate": "2024-07-06T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "QUARTER_FINALS",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428780,
+			"utcDate": "2024-07-09T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "SEMI_FINALS",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428779,
+			"utcDate": "2024-07-10T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "SEMI_FINALS",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		},
+		{
+			"area": {
+				"id": 2077,
+				"name": "Europe",
+				"code": "EUR",
+				"flag": "https://crests.football-data.org/EUR.svg"
+			},
+			"competition": {
+				"id": 2018,
+				"name": "European Championship",
+				"code": "EC",
+				"type": "CUP",
+				"emblem": "https://crests.football-data.org/EUR.svg"
+			},
+			"season": {
+				"id": 1537,
+				"startDate": "2024-06-14",
+				"endDate": "2024-07-14",
+				"currentMatchday": 1,
+				"winner": null
+			},
+			"id": 428778,
+			"utcDate": "2024-07-14T19:00:00Z",
+			"status": "TIMED",
+			"matchday": null,
+			"stage": "FINAL",
+			"group": null,
+			"lastUpdated": "2022-11-08T07:38:36Z",
+			"homeTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"awayTeam": {
+				"id": null,
+				"name": null,
+				"shortName": null,
+				"tla": null,
+				"crest": null
+			},
+			"score": {
+				"winner": null,
+				"duration": "REGULAR",
+				"fullTime": {
+					"home": null,
+					"away": null
+				},
+				"halfTime": {
+					"home": null,
+					"away": null
+				}
+			},
+			"odds": {
+				"msg": "Activate Odds-Package in User-Panel to retrieve odds."
+			},
+			"referees": []
+		}
+	]
+}

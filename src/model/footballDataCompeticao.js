@@ -1,7 +1,7 @@
 const Sequelize = require("sequelize");
 const sequelize = require("../database/database");
 
-const Competicao = sequelize.define("competicao", {
+const FootballDataCompeticao = sequelize.define("footballDataCompeticao", {
   id: {
     allowNull: false,
     primaryKey: true,
@@ -9,9 +9,8 @@ const Competicao = sequelize.define("competicao", {
   },
   name: {
     allowNull: false,
-    type: Sequelize.STRING(100),
+    type: Sequelize.STRING(100)
   },
-
   code: {
     allowNull: false,
     type: Sequelize.STRING(3),
@@ -19,14 +18,13 @@ const Competicao = sequelize.define("competicao", {
 
   type: {
     allowNull: false,
-    type: Sequelize.STRING(20),
+    type: Sequelize.STRING(50),
   },
 
   emblem: {
     allowNull: false,
     type: Sequelize.STRING(255),
   },
-  
 
 },
   {
@@ -35,4 +33,4 @@ const Competicao = sequelize.define("competicao", {
 
   });
 
-module.exports = Competicao;
+module.exports = FootballDataCompeticao;

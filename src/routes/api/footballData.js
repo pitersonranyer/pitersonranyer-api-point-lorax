@@ -12,5 +12,9 @@ Router.get('/classificaoPorCompeticaoId/:id_competicao', controller.classificaoP
 
 Router.get('/partidasPorCompeticaoId/:id_competicao', controller.partidasPorCompeticaoId);
 
+Router.get('/listPartidasCompeticaoQuery/:dtInicio/:dtFim', controller.listPartidasCompeticaoQuery);
+
+
+
 
 module.exports = Router;
