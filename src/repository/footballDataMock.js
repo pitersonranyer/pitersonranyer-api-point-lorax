@@ -1,5 +1,4 @@
 const fs = require("fs");
-const FootballDataCompeticao = require('../model/footballDataCompeticao');
 const FootballDataPartidaCompeticao = require('../model/footballDataPartidaCompeticao');
 const sequelize = require('../database/database');
 
@@ -76,7 +75,7 @@ const competitionMatches = () => {
           crest_homeTeam: jsonData.matches[i].homeTeam.crest,
           placar_homeTeam: jsonData.matches[i].score.fullTime.home,
 
-          /* time mandante */
+          /* time visitante */
           id_awayTeam: jsonData.matches[i].awayTeam.id,
           name_awayTeam: jsonData.matches[i].awayTeam.name,
           shortName_awayTeam: jsonData.matches[i].awayTeam.shortName,

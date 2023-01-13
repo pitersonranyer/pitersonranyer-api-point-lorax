@@ -2,16 +2,10 @@ const Sequelize = require("sequelize");
 const sequelize = require("../database/database");
 
 const FootballDataPalpiteBilhete = sequelize.define("footballDataPalpiteBilhete", {
-  ticket: { 
+  id_bilhete: { 
     allowNull: false,
     primaryKey: true,
     type: Sequelize.STRING(12)
-  },
-
-  id_bolao: {
-    allowNull: false,
-    primaryKey: true,
-    type: Sequelize.INTEGER
   },
 
   id_partida: {

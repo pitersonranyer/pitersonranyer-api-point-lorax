@@ -20,6 +20,21 @@ const FootballDataJogoBolao = sequelize.define("footballDataJogoBolao", {
     type: Sequelize.BOOLEAN,
   },
 
+  casa_vence: {
+    allowNull: true,
+    type: Sequelize.BOOLEAN,
+  },
+
+  empate_jogo: {
+    allowNull: true,
+    type: Sequelize.BOOLEAN,
+  },
+
+  fora_vence: {
+    allowNull: true,
+    type: Sequelize.BOOLEAN,
+  },
+
 
 },
   {
