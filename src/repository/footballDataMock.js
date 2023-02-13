@@ -121,6 +121,7 @@ const teams = () => {
 
 const getPartidasCompeticaoQuery = async (dtInicio, dtFim ) => {
 
+ var count = 0
   
   result = await sequelize.query("SELECT `A`.`id` " +
     " , `A`.`code` " +
@@ -137,6 +138,10 @@ const getPartidasCompeticaoQuery = async (dtInicio, dtFim ) => {
   if (result.length > 0) {
 
     for (let i = 0; i < result.length; i++) {
+
+      count = count + 1;
+
+      result[i].contador = count;
 
       partidas = await sequelize.query(
         "SELECT `A`.`id_competicao` " +
@@ -171,8 +176,10 @@ const getPartidasCompeticaoQuery = async (dtInicio, dtFim ) => {
         for (let ix = 0; ix < partidas.length; ix++) {
           const utcDate1 = new Date(partidas[ix].utcDate);
           partidas[ix].utcDate = utcDate1.toLocaleString();
+          count = count + 1;
+          result[i].contador = count;
         }
-
+        
         result[i].partidas = partidas;
 
       } else {
@@ -180,11 +187,10 @@ const getPartidasCompeticaoQuery = async (dtInicio, dtFim ) => {
         result[i].partidas = [];
 
       }
-
-
     }
-
+    
     return result;
+
   } else {
     return result = [];
   }

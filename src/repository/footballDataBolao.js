@@ -82,6 +82,12 @@ const getPartidasBolao = async (id_bolao) => {
     for (let ix = 0; ix < partidas.length; ix++) {
       const utcDate1 = new Date(partidas[ix].utcDate);
       partidas[ix].utcDate = utcDate1.toLocaleString();
+
+      if (partidas.placar_homeTeam =! null){
+        
+      }
+
+
     }
 
     return partidas;
